@@ -39,6 +39,8 @@ body {
 .right-section {
     grid-column: span 1 / span 2;
     background: #01497c;
+    height: 1000px;
+    overflow: hidden;
 }
 
 .left-content {
