@@ -21,13 +21,11 @@ body {
     min-height: 1000px;
     position: relative;
     background-color: #003459;
-    box-shadow: 0 35px 55px #00a8e8;
 }
 
 .left-section {
     grid-column: 1 / 2;
     position: relative;
-    padding: 40px;
     background: #01497c;
 }
 
