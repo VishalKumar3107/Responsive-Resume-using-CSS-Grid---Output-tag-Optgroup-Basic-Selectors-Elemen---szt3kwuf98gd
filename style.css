@@ -20,6 +20,7 @@ body {
     grid-template-columns: 300px 700px;
     min-height: 1000px;
     position: relative;
+    box-shadow: 0 35px 55px #00a8e8;
     background-color: #003459;
 }
 
