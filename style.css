@@ -34,6 +34,7 @@ body {
 .right-section {
     grid-column: 2 / 3;
     width: 90%;
+    background: #01497c;
 }
 
 .left-content {
