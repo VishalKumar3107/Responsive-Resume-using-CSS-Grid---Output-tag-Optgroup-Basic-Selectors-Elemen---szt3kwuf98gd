@@ -19,6 +19,7 @@ body {
     display: grid;
     grid-template-columns: 300px 700px;
     min-height: 1000px;
+    height: 1000px;
     width: 90%;
     position: relative;
     margin: 20px auto;
@@ -31,6 +32,8 @@ body {
     position: relative;
     padding: 40px;
     background: #01497c;
+    height: 1000px;
+    overflow: hidden;
 }
 
 .right-section {
