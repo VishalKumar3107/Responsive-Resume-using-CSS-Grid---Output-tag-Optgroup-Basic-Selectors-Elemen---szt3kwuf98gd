@@ -156,10 +156,9 @@ body {
 
 
 .progress-bar {
-    border: 1px solid white;
+    border: 1px white solid;
     height: 4px;
     color: #1D1CE5;
-    height: 8px;
     background-color: #ddd;
     border-radius: 5px;
 }
