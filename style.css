@@ -250,7 +250,9 @@ body {
 ul {
     list-style: none;
 }
-
+.inline-list li{
+    display: inline-block;
+}
 
 @media screen and (max-width: 673px) {
     .main-content {
