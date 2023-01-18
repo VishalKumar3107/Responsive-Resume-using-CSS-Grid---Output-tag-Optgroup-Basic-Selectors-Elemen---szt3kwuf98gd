@@ -252,6 +252,7 @@ ul {
 }
 .inline-list li{
     display: inline-block;
+    margin-right:30px;
 }
 
 @media screen and (max-width: 673px) {
